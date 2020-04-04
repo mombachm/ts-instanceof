@@ -1,0 +1,8 @@
+{
+  "name": "ts-instanceof",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mombachm/ts-instanceof.git",
+  "author": "Matheus Mombach <matheus.mombach@sap.com>",
+  "license": "MIT"
+}
