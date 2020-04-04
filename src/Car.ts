@@ -1,7 +1,7 @@
+interface Car {
+  honk(): void;
+}
 
-
-
-
-interface Car {}
-
-class CarImpl implements Car {}
+class CarImpl implements Car {
+  public honk() {}
+}
