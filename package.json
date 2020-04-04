@@ -6,6 +6,7 @@
   "author": "Matheus Mombach <matheus.mombach@sap.com>",
   "license": "MIT",
   "devDependencies": {
+    "tslint": "^6.1.1",
     "typescript": "^3.8.3"
   },
   "scripts": {
