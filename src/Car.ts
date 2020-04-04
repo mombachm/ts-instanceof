@@ -1,7 +1,7 @@
-interface Car {
+export interface Car {
   honk(): void;
 }
 
-class CarImpl implements Car {
+export class CarImpl implements Car {
   public honk() {}
 }

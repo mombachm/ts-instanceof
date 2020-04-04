@@ -1,6 +1,13 @@
+import { CarImpl } from "./Car";
+
 class Main {
   execute() {
-    console.log("Test transpiled code.");
+    const car = new CarImpl();
+    if (car instanceof CarImpl) {
+      debugger;
+    } else {
+      debugger; 
+    }
   }
 }
 export default new Main().execute();
