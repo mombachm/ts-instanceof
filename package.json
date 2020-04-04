@@ -5,7 +5,7 @@
   "repository": "git@github.com:mombachm/ts-instanceof.git",
   "author": "Matheus Mombach <matheus.mombach@sap.com>",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "typescript": "^3.8.3"
   }
 }
