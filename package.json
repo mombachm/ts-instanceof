@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:mombachm/ts-instanceof.git",
   "author": "Matheus Mombach <matheus.mombach@sap.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
 }

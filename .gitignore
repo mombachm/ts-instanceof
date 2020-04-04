@@ -1,0 +1,11 @@
+# yarn
+/node_modules
+
+#vscode
+.vscode/
+
+#log
+.log
+
+#other
+/dist
