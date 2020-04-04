@@ -10,6 +10,7 @@
     "typescript": "^3.8.3"
   },
   "scripts": {
-    "build:watch": "npx tsc -w"
+    "build:watch": "npx tsc -w",
+    "lint": "tslint  -p tsconfig.json ./src/**/*.ts"
   }
 }

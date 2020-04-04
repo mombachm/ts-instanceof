@@ -1,7 +1,7 @@
-interface Car {
 
-}
 
-class CarImpl implements Car {
-  
-}
+
+
+interface Car {}
+
+class CarImpl implements Car {}
