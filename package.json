@@ -11,6 +11,7 @@
   },
   "scripts": {
     "build:watch": "npx tsc -w",
-    "lint": "tslint  -p tsconfig.json ./src/**/*.ts"
+    "lint": "tslint  -p tsconfig.json ./src/**/*.ts",
+    "start": "node dist/Main.js"
   }
 }
